@@ -1,5 +1,19 @@
-online materials for Think Stats book
+this project is for my notes and code while reading the "Think Stats" book.
 
-http://greenteapress.com/thinkstats/
+an online version of the book can be found at:
+ http://greenteapress.com/thinkstats/
 
-code examples and solutions from the site are in thinkstats_resources
+
+./thinkstats.pdf is the current version of the online book
+./thinkstats_resources/ contains sample code for the book
+
+
+I have added three datasets from the CDC to the thinkstats_resources directory as well (2002FemPreg.dat, 2002FemResp.dat, 2002Male.dat). A data user's agreement covering these datasets is provided below:
+
+"Federal law provides that these data may be used only for the purpose of health statistical reporting and analysis. Any effort to determine the identity of any person or establishment is prohibited.
+
+By downloading these data, you signify your agreement to comply with the following legal requirements:
+
+1. To use these data for statistical reporting and analysis only;
+2. To make no use of the identity of any person or establishment discovered inadvertently and advise the Director, NCHS, of any such discovery; and
+3. To not link this data set with individually identifiable data from any other data set."
